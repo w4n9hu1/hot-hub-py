@@ -1,4 +1,4 @@
-name: main
+name: main-schedule
 
 on:
   schedule:
@@ -40,4 +40,4 @@ jobs:
       run: |
         git add .
         git commit -m "auto update"
-        git push -u origin master
+        git push -u origin main
