@@ -86,8 +86,8 @@ def update_readme(current_time):
         lines = file.readlines()
 
     for i, line in enumerate(lines):
-        if line.startswith('last update:'):
-            lines[i] = f"last update: {current_time}\n"
+        if line.startswith('last updated:'):
+            lines[i] = f"last updated: {current_time}\n"
             break
 
     with open('README.md', 'w', encoding='utf-8') as file:
