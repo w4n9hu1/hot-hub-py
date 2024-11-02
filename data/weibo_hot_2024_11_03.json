@@ -931,5 +931,316 @@
         "tag": ""
       }
     ]
+  },
+  {
+    "time": "2024/11/03 03:17:50",
+    "hots": [
+      {
+        "rank": 0,
+        "topic": "这篇文章透露了改革的几个重要信号",
+        "score": 0,
+        "tag": "top"
+      },
+      {
+        "rank": 1,
+        "topic": "T1夺冠",
+        "score": 6299570,
+        "tag": ""
+      },
+      {
+        "rank": 2,
+        "topic": "On失误",
+        "score": 3123264,
+        "tag": ""
+      },
+      {
+        "rank": 3,
+        "topic": "C919和ARJ21首次双机编队飞行",
+        "score": 2890112,
+        "tag": ""
+      },
+      {
+        "rank": 4,
+        "topic": "BLG对战T1",
+        "score": 2882926,
+        "tag": ""
+      },
+      {
+        "rank": 5,
+        "topic": "Faker五冠王",
+        "score": 1844303,
+        "tag": ""
+      },
+      {
+        "rank": 6,
+        "topic": "郑钦文总决赛首秀落败",
+        "score": 1477785,
+        "tag": ""
+      },
+      {
+        "rank": 7,
+        "topic": "薛之谦晒与赵露思聊天记录",
+        "score": 1404763,
+        "tag": "剧集"
+      },
+      {
+        "rank": 8,
+        "topic": "永夜星河",
+        "score": 1374655,
+        "tag": "剧集"
+      },
+      {
+        "rank": 9,
+        "topic": "Faker LPL无法逾越的大山",
+        "score": 1354719,
+        "tag": ""
+      },
+      {
+        "rank": 10,
+        "topic": "必须把顶层设计和摸着石头过河结合起来",
+        "score": 1318563,
+        "tag": ""
+      },
+      {
+        "rank": 11,
+        "topic": "Faker FMVP",
+        "score": 1302345,
+        "tag": ""
+      },
+      {
+        "rank": 12,
+        "topic": "管泽元 求闭嘴",
+        "score": 1014293,
+        "tag": ""
+      },
+      {
+        "rank": 13,
+        "topic": "绝境李相赫",
+        "score": 897107,
+        "tag": ""
+      },
+      {
+        "rank": 14,
+        "topic": "BLG教练",
+        "score": 659662,
+        "tag": ""
+      },
+      {
+        "rank": 15,
+        "topic": "BLG 自ban蝎子",
+        "score": 633654,
+        "tag": ""
+      },
+      {
+        "rank": 16,
+        "topic": "Bin哥厉害",
+        "score": 624517,
+        "tag": ""
+      },
+      {
+        "rank": 17,
+        "topic": "成功95花的背后",
+        "score": 615662,
+        "tag": ""
+      },
+      {
+        "rank": 18,
+        "topic": "正午阳光 切不动了",
+        "score": 600616,
+        "tag": "剧集"
+      },
+      {
+        "rank": 19,
+        "topic": "覃海洋回应近日争议",
+        "score": 591480,
+        "tag": ""
+      },
+      {
+        "rank": 20,
+        "topic": "私人影院低价吸引顾客到店嫖娼",
+        "score": 574762,
+        "tag": ""
+      },
+      {
+        "rank": 21,
+        "topic": "BLG和T1决胜局",
+        "score": 573942,
+        "tag": ""
+      },
+      {
+        "rank": 22,
+        "topic": "赵露思给韩安冉发的语音",
+        "score": 507530,
+        "tag": ""
+      },
+      {
+        "rank": 23,
+        "topic": "Uzi捧杯图P好了",
+        "score": 462736,
+        "tag": ""
+      },
+      {
+        "rank": 24,
+        "topic": "Zeus就这样穿着V5出来了",
+        "score": 411469,
+        "tag": ""
+      },
+      {
+        "rank": 25,
+        "topic": "谁说Faker老了这Faker太棒了",
+        "score": 376593,
+        "tag": ""
+      },
+      {
+        "rank": 26,
+        "topic": "医生提醒别把鲨鱼裤当秋裤穿",
+        "score": 375530,
+        "tag": ""
+      },
+      {
+        "rank": 27,
+        "topic": "小伙称按摩后禁不住怂恿花一万五",
+        "score": 358178,
+        "tag": ""
+      },
+      {
+        "rank": 28,
+        "topic": "没有伤害任何人",
+        "score": 345272,
+        "tag": "剧集"
+      },
+      {
+        "rank": 29,
+        "topic": "虞书欣很会选剧本",
+        "score": 340977,
+        "tag": "剧集"
+      },
+      {
+        "rank": 30,
+        "topic": "张雨绮男友回应",
+        "score": 327686,
+        "tag": "综艺"
+      },
+      {
+        "rank": 31,
+        "topic": "Bin直视镜头",
+        "score": 310407,
+        "tag": ""
+      },
+      {
+        "rank": 32,
+        "topic": "Faker太猛了",
+        "score": 308397,
+        "tag": ""
+      },
+      {
+        "rank": 33,
+        "topic": "加里奥",
+        "score": 307345,
+        "tag": ""
+      },
+      {
+        "rank": 34,
+        "topic": "Keria泪洒赛场",
+        "score": 296729,
+        "tag": ""
+      },
+      {
+        "rank": 35,
+        "topic": "TES",
+        "score": 285904,
+        "tag": ""
+      },
+      {
+        "rank": 36,
+        "topic": "英雄联盟",
+        "score": 245574,
+        "tag": ""
+      },
+      {
+        "rank": 37,
+        "topic": "Knight单杀Faker",
+        "score": 197673,
+        "tag": ""
+      },
+      {
+        "rank": 38,
+        "topic": "七年了还是这个加里奥",
+        "score": 194545,
+        "tag": ""
+      },
+      {
+        "rank": 39,
+        "topic": "LPL",
+        "score": 190095,
+        "tag": ""
+      },
+      {
+        "rank": 40,
+        "topic": "全华班",
+        "score": 185746,
+        "tag": ""
+      },
+      {
+        "rank": 41,
+        "topic": "被拐34年男子认亲一年后与家人决裂",
+        "score": 161805,
+        "tag": ""
+      },
+      {
+        "rank": 42,
+        "topic": "BLG辅助",
+        "score": 153972,
+        "tag": ""
+      },
+      {
+        "rank": 43,
+        "topic": "ZOFGK",
+        "score": 151244,
+        "tag": ""
+      },
+      {
+        "rank": 44,
+        "topic": "乔任梁",
+        "score": 132450,
+        "tag": ""
+      },
+      {
+        "rank": 45,
+        "topic": "Uzi说今晚偷奖杯",
+        "score": 128536,
+        "tag": ""
+      },
+      {
+        "rank": 46,
+        "topic": "ON OFF",
+        "score": 114090,
+        "tag": ""
+      },
+      {
+        "rank": 47,
+        "topic": "覃海洋成绩被取消",
+        "score": 102882,
+        "tag": ""
+      },
+      {
+        "rank": 48,
+        "topic": "李佳航为BLG加油",
+        "score": 100975,
+        "tag": ""
+      },
+      {
+        "rank": 49,
+        "topic": "Bin再比三比零手势",
+        "score": 99147,
+        "tag": ""
+      },
+      {
+        "rank": 50,
+        "topic": "睡觉时最伤脊椎的睡姿",
+        "score": 88378,
+        "tag": ""
+      }
+    ]
   }
 ]
