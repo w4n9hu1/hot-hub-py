@@ -2,4 +2,4 @@
 
 [hot-hub-ts](https://github.com/w4n9hu1/hot-hub-scraper), a Node.js application that scrapes hot topics from Weibo and stores them in a PostgreSQL database.
 
-last updated: 2026/01/17 16:32:06
+last updated: 2026/01/17 17:25:38
